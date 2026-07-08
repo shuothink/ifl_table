@@ -1,7 +1,8 @@
 name: ifl_table
 description: "A Flutter table package with fixed columns, custom widget cells, summaries, and paged loading."
 version: 0.0.1
-homepage:
+homepage: https://github.com/shuothink/ifl_table
+repository: https://github.com/shuothink/ifl_table
 
 environment:
   sdk: ^3.8.1
